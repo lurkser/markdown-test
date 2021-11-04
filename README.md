@@ -60,3 +60,24 @@ E também listas de tarefas:
 - [ ] Esse é um item incompleto
 
 E claro, emoji: 🌲🏆
+
+## Tabelas
+É possível criar tabelas dividindo palavras com - (para a primeira linha) e cada coluna com |
+
+First Header | Second Header
+------------|-------
+Conteudo 1 | Conteudo 2
+Conteudo primeira coluna | Conteudo segunda coluna
+
+### Issue referência
+
+
+lurkser[#1](https://github.com/lurkser/markdown-test/issues/1)
+
+lurkser/markdown-test[#1](https://github.com/lurkser/markdown-test/issues/1)
+
+### Link automático
+Toda URL vai se tornar um link clicável https://www.github.com
+
+### Strikethrough
+Qualquer palavra com 2 tils antes e depois tipo ~~assim~~
