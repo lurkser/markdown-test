@@ -1,4 +1,4 @@
-Diretório feito para testar o markdown do github e aprender a usar projetos e issues
+🔰Diretório feito para testar o markdown do github e aprender a usar projetos e issues🔰
 # Test de markdown
 ## Exemplos
 ### texto
